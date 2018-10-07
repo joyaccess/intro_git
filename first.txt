@@ -1,2 +1,6 @@
 gitの練習を始めます。
 はじめての、git変更。
+gitのワークフロー
+git add file_name
+git comit
+
