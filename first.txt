@@ -2,11 +2,14 @@ gitの練習を始めます。
 はじめての、git変更。
 gitのワークフロー
 git add file_name
-git comit
+git comit -v
 git rm
 git status
 
-git add .
-git commit -v
+git log
+git log --oneline
+git log -n 3
+git log --oneline -n 3
+git -p first.txt
 
 
