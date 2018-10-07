@@ -12,4 +12,7 @@ git log -n 3
 git log --oneline -n 3
 git -p first.txt
 
+git diff
+//commit する前に差を確認する
+
 
