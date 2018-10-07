@@ -4,3 +4,7 @@ gitのワークフロー
 git add file_name
 git comit
 
+git add .
+git commit -v
+
+
