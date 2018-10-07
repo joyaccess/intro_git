@@ -14,5 +14,7 @@ git -p first.txt
 
 git diff
 //commit する前に差を確認する
+//staging area と　local areaの差分
+
 
 
