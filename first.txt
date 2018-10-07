@@ -3,6 +3,8 @@ gitの練習を始めます。
 gitのワークフロー
 git add file_name
 git comit
+git rm
+git status
 
 git add .
 git commit -v
