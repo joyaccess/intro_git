@@ -16,5 +16,9 @@ git diff
 //commit する前に差を確認する
 //staging area と　local areaの差分
 
+リモートリポジトリ登録
+git remote add origin https://github.com/joyaccess/intro_git
+リモートリポジトリへ送信
+git push origin master https://github.com/joyaccess/intro_git
 
 
